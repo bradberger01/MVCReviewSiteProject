@@ -11,6 +11,7 @@ namespace ReviewSiteProject2.Models
         [Key]
         public int ReviewID { get; set; }
         public string ReviewTitle { get; set; }
+    
         public string ReviewContent { get; set; }
         public DateTime PublishingDate { get; set; }
 
