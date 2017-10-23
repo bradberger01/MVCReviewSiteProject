@@ -257,6 +257,17 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Scripts\jquery-3.2.1.intellisense.js" />
+    <Content Include="Images\IMG_0066.JPG" />
+    <Content Include="Images\IMG_0097.JPG" />
+    <Content Include="Images\IMG_0113.JPG" />
+    <Content Include="Images\IMG_0116.JPG" />
+    <Content Include="Images\IMG_0212.JPG" />
+    <Content Include="Images\IMG_0463.JPG" />
+    <Content Include="Images\IMG_0581.JPG" />
+    <Content Include="Images\IMG_0673.JPG" />
+    <Content Include="Images\IMG_6955.JPG" />
+    <Content Include="Images\Torre Pines Pano 1.JPG" />
+    <Content Include="Images\Torre Pines Pano 2.JPG" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.2.1.js" />
@@ -274,6 +285,7 @@
     <Content Include="Scripts\respond.matchmedia.addListener.min.js" />
     <Content Include="Scripts\respond.min.js" />
     <Content Include="Scripts\_references.js" />
+    <Content Include="Style Sheet\StyleSheet.css" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

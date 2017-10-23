@@ -1,0 +1,32 @@
+﻿body {
+
+    background-image: url('../Images/Torre Pines Pano 2.JPG');
+   
+   
+}
+/*Styles for Review and Category Tables*/
+table{
+    
+    background-color: grey; 
+    opacity: 0.7;
+ margin-top: 50px;
+ }
+th{
+    color:black;
+}
+td{
+    color: white;
+}
+p, h2{
+    color: red;
+}
+
+/*Styles for HomePage Layout*/
+
+.pushdown{
+    margin-top: 225px;
+
+  }
+.homefont{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
